@@ -47,7 +47,7 @@
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=ErickNyagilo&show_icons=true&hide_border=true" />
 
 
-[website]: http://ericknyagilo.me/erick_dev/
+[website]: https://ericknyagilo.github.io/erick_dev/
 [twitter]: https://twitter.com/NyagiloErick
 [instagram]: https://www.instagram.com/erick_nyagilo
 [linkedin]: https://www.linkedin.com/in/erick-nyagilo-9369a8155
