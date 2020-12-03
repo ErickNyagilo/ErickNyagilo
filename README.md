@@ -6,27 +6,16 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and football
-<br/>
-<br/>
-<br/>
 
-<a href="https://dev.to/ericknyagilo">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="ErickNyagilo's DEV Profile" height="30" width="30">
-</a>
-
-<br/>
-<br/>
 
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<a href="https://dev.to/ericknyagilo"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="ErickNyagilo's DEV Profile" height="30" width="30"></a>]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-<br />
-<br />
 
 ### Languages and Tools:
 
