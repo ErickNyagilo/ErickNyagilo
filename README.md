@@ -1,6 +1,6 @@
 ### Hi there, I'm Erick Nyagilo [website] 👋
 
-## I'm a Data scientist, Frontend Developer, and Student!
+## I'm a Data scientist, Frontend Developer transitioning to Backend !
 - 🔭 I’m currently working as a freelance developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
